@@ -21,7 +21,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=FeSeixas&theme=dark)](https://github.com/anuraghazra/github-readme-stats"
+        src="https://github-readme-stats.vercel.app/api?username=FeSeixas&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats"
         alt="Github Stats"
       />
     </td>
