@@ -21,7 +21,7 @@
     <td>
       <img
         align="left"
-        src="[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)"
+        src=[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
         alt="Github Stats"
       />
     </td>
