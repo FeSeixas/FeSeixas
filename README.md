@@ -19,9 +19,6 @@
 
 ![FeSeixas GitHub stats](https://github-readme-stats.vercel.app/api?username=FeSeixas&showicons=true&theme=radical)
 
-## Olá, meu nome é {seu nome}!
-
-### ⚙️ GitHub Analytics
 
 <table>
   <tr>
