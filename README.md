@@ -14,7 +14,7 @@
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-lfe.dev2003@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
-[![Twitter Follow](https://img.shields.io/twitter/follow/FeSeixas1?style=social)]({Link}) <br><br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/FeSeixas1?style=social)](https://x.com/FeSeixas1) <br><br>
 
 <table>
   <tr>
