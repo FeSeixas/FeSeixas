@@ -53,12 +53,12 @@
 
 <p align="center">
   <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
+    href="https://github.com/FeSeixas/github-profile-trophy"
     title="repositório de troféus"
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=FeSeixas&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
@@ -71,7 +71,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://profile-counter.glitch.me/FeSeixas/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
